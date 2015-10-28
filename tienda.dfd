@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'consumo total de la tienda'
+4
+1
+49
+'introduce la cantidad de de papas que compraste'
+5
+1
+1
+a
+4
+1
+50
+' introduce la cantidad de refresco vas a comprar'
+5
+1
+1
+b
+4
+1
+54
+' introduce  la cantidad de churros que vas a comprar'
+5
+1
+1
+c
+4
+1
+54
+'introduce la  cantidad de caguamas que vas a comprar'
+5
+1
+1
+d
+4
+1
+55
+'introduce la cantidad de chocolates que vas a comprar'
+5
+1
+1
+e
+6
+1
+5
+total
+20
+a*6+b*8+c*2+d*20+e*4
+4
+1
+28
+' lo que gastaste es', total
+1
