@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'algoritmo para saber cuanto dejar de propina'
+5
+1
+1
+a
+7
+1
+1
+7
+ a>1000
+6
+1
+1
+b
+6
+a*0.10
+4
+1
+32
+'tienes que dejar de propina', b
+13
+6
+1
+1
+b
+6
+a*0.16
+4
+1
+32
+'tienes que dejar de propina', b
+13
+1

@@ -1,0 +1,9 @@
+inicio
+   leer a
+   leer b
+   leer c
+   leer d
+   leer e
+   resultado de a*6+b*8+c*2+d*6+e*4
+   escribe el resultado
+fin
